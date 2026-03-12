@@ -1,6 +1,6 @@
 # Grand Stay Hotel 🏨
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue?style=for-the-badge&logo=flutter)
 
 Experience luxury at your fingertips with Grand Stay Hotel. Seamlessly book premium rooms, schedule exclusive events, and manage your dining experiences in one place.
 
