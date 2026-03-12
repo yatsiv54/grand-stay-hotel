@@ -1,0 +1,262 @@
+[
+  {
+    "id": "room_deluxe_1",
+    "name": "Urban Deluxe King",
+    "description": "Bright suite with city view, workspace, and lounge area. Includes breakfast.",
+    "price": 220.0,
+    "type": "room",
+    "size": "42 m²",
+    "sizeFull": "Approx. 28–32 m²",
+    "bed": "King bed",
+    "capacity": "Up to 2 adults",
+    "photos": [
+      "assets/images/rooms/urban_deluxe_1.png",
+      "assets/images/rooms/urban_deluxe_2.png"
+    ],
+    "tag": "Sea view",
+    "hint": "Show this code at the reception during check-in",
+    "features": [
+      "king_bed_premium",
+      "large_windows",
+      "lighting_scenes",
+      "lounge_chair",
+      "work_desk",
+      "walk_in_shower",
+      "nespresso",
+      "blackout_curtains"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV",
+      "Hairdryer",
+      "Mini-bar",
+      "Telephone",
+      "AC",
+      "In-room safe",
+      "Complimentary bottled water"
+    ],
+    "extras": [
+      "Late check-out subject to availability",
+      "Pillow selection on request"
+    ]
+  },
+  {
+    "id": "room_signature_1",
+    "name": "Signature Junior Suite",
+    "description": "BA refined junior suite that combines a sleeping area and a compact lounge into one harmonious space. A great choice for guests who stay several nights and want a bit more room to relax, work or enjoy room service.",
+    "price": 149,
+    "type": "suite",
+    "size": "28 m²",
+    "sizeFull": "Approx. 28–35 m²",
+    "bed": "Queen bed",
+    "capacity": "2 adults",
+    "photos": [
+      "assets/images/rooms/signature_1.png",
+      "assets/images/rooms/signature_2.png"
+    ],
+    "tag": "Balcony",
+    "hint": "Show this code at the reception during check-in",
+    "features": [
+      "queenBed",
+      "sofa",
+      "balcony",
+      "health",
+      "work_desk",
+      "wardrobe",
+      "bath",
+      "mirror"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Smart TV",
+      "Bluetooth speaker",
+      "Mini-bar",
+      "Air conditioning",
+      "In-room safe",
+      "Tea & coffee",
+      "CBathrobe & slippers",
+      "Toiletries set"
+    ],
+    "extras": [
+      "Connecting suites available for families (on request)",
+      "Turn-down service on selected floors"
+    ]
+  },
+  {
+    "id": "room_twin_1",
+    "name": "Classic Twin Retreat",
+    "description": "A practical and well-appointed twin room designed for friends, colleagues, or guests who prefer separate beds. Thoughtful details and a calm interior make it suitable for both business and leisure stays.",
+    "price": 119,
+    "type": "room",
+    "size": "24 m²",
+    "sizeFull": "Approx. 22–24 m²",
+    "bed": "Double bed",
+    "capacity": "2 adults",
+    "photos": [
+      "assets/images/rooms/twin_1.png",
+      "assets/images/rooms/twin_2.png"
+    ],
+    "tag": "Balcony",
+    "hint": "Show this code at the reception during check-in",
+    "features": ["king_bed_premium", "work_desk", "city", "wardrobe", "bath"],
+    "amenities": [
+      "Wi-Fi",
+      "Flat-screen TV",
+      "Complimentary bottled water",
+      "Air conditioning",
+      "Kettle with tea selection",
+      "Hairdryer",
+      "Tea & coffee",
+      "Phone for internal services"
+    ],
+    "extras": [
+      "Iron and ironing board available on request",
+      "Quiet wing option for light sleepers"
+    ]
+  },
+  {
+    "id": "room_executive_1",
+    "name": "Executive Corner Suite",
+    "description": "A spacious corner suite created for guests who value privacy, comfort, and an elegant environment. Ideal for longer stays, special occasions or business trips that require a separate living space for meetings or relaxation.",
+    "price": 239,
+    "type": "suite",
+    "size": "45 m²",
+    "sizeFull": "Approx. 45–50 m²",
+    "bed": "King bed",
+    "capacity": "2 adults",
+    "photos": [
+      "assets/images/rooms/executive_1.png",
+      "assets/images/rooms/executive_2.png"
+    ],
+    "tag": "Lounge",
+    "hint": "Show this code at the reception during check-in",
+    "features": [
+      "king_bed_premium",
+      "sofa",
+      "table",
+      "panorama",
+      "wardrobe",
+      "bath",
+      "wc"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Two Smart TVs",
+      "Premium coffee machine",
+      "Mini-bar",
+      "In-room safe",
+      "Bluetooth sound system",
+      "Bathrobe & slippers",
+      "Extended amenities set"
+    ],
+    "extras": [
+      "Welcome drink upon arrival",
+      "Priority for late check-out (subject to availability)"
+    ]
+  },
+  {
+    "id": "room_loft_1",
+    "name": "Family Loft Room",
+    "description": "A two-level family room designed for traveling families or small groups. Separate sleeping zones for adults and children create a sense of privacy while keeping everyone close together.",
+    "price": 239,
+    "type": "room",
+    "size": "40 m²",
+    "sizeFull": "Approx. 40–45 m²",
+    "bed": "2+2 guests",
+    "capacity": "2 adults + 2 children",
+    "photos": [
+      "assets/images/rooms/loft_1.png",
+      "assets/images/rooms/loft_2.png"
+    ],
+    "tag": "Sea view",
+    "hint": "Show this code at the reception during check-in",
+    "features": [
+      "king_bed_premium",
+      "sofa",
+      "safe",
+      "wardrobe",
+      "table",
+      "bath"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Smart TV with family channels",
+      "Small fridge",
+      "Kettle",
+      "Air conditioning",
+      "Night lights"
+    ],
+    "extras": [
+      "Baby cot, high chair, and step stool available on request",
+      "Child-friendly welcome set (colouring book, small toy, etc.)"
+    ]
+  },
+  {
+    "id": "room_cozy_1",
+    "name": "Cozy Standard Double",
+    "description": "A compact, thoughtfully arranged room with everything needed for a comfortable stay. Ideal for short city breaks or business trips.",
+    "price": 99,
+    "type": "suite",
+    "size": "18 m²",
+    "sizeFull": "Approx. 18–20 m²",
+    "bed": "Double bed",
+    "capacity": "Up to 2 adults",
+    "photos": [
+      "assets/images/rooms/cozy_1.png",
+      "assets/images/rooms/cozy_2.png"
+    ],
+    "tag": "Lounge",
+    "hint": "Show this code at the reception during check-in",
+    "features": ["king_bed_premium", "tv", "work_desk", "wardrobe", "bath"],
+    "amenities": [
+      "Wi-Fi",
+      "Hairdryer",
+      "Mini-fridge",
+      "Kettle",
+      "USB charging outlets"
+    ],
+    "extras": [
+      "Choice of firm or soft pillow on request",
+      "Some rooms available with courtyard aspect"
+    ]
+  },
+  {
+    "id": "room_skyline_1",
+    "name": "Skyline Panorama Suite",
+    "description": "A signature top-floor suite with sweeping views and generous space. Created for guests who want a memorable stay, whether for a celebration, a relaxed escape or an extended visit.",
+    "price": 269,
+    "type": "suite",
+    "size": "50 m²",
+    "sizeFull": "Approx. 50–58 m²",
+    "bed": "Double bed",
+    "capacity": "2 adults",
+    "photos": [
+      "assets/images/rooms/skyline_1.png",
+      "assets/images/rooms/skyline_2.png"
+    ],
+    "tag": "Lounge",
+    "hint": "Show this code at the reception during check-in",
+    "features": [
+      "king_bed_premium",
+      "sofa",
+      "work_desk",
+      "wardrobe",
+      "shower",
+      "bath"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "65″ Smart TV ",
+      "Espresso machine",
+      "Mini-bar",
+      "Bluetooth sound system",
+      "In-room safe",
+      "Bathrobes",
+      "Luxury amenities kit"
+    ],
+    "extras": [
+      "Priority for complimentary room upgrade, when available",
+      "Private in-room dinner or celebration set-up on request"
+    ]
+  }
+]

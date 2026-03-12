@@ -1,0 +1,192 @@
+﻿[
+  {
+    "id": "jazz_lounge",
+    "category": "live_shows",
+    "title": "Jazz Night in the Lounge",
+    "subtitle": "Smooth live jazz with signature drinks",
+    "hint": "Show this code at the entrance during the event",
+    "description": "Settle into a cosy armchair and enjoy an evening of live jazz in our lounge bar. A rotating line-up of talented musicians creates a warm, intimate atmosphere with smooth tunes and relaxed vibes — perfect after a long day.",
+    "location": "Lounge Bar – Level 1",
+    "when": "Every evening at 8:00 PM",
+    "durationMinutes": 90,
+    "entryPrice": "Entry: complimentary for hotel guests\nDrinks and snacks charged separately",
+    "extras": [
+      "Table service available throughout the show",
+      "Recommended to arrive 10–15 minutes early for the best seats"
+    ],
+    "tag": "Free entry",
+    "image": "assets/images/entertainment/jazz_1.png",
+    "eventDate": "2025-12-02T20:00:00.000Z"
+  },
+  {
+    "id": "comedy_evening",
+    "category": "live_shows",
+    "title": "Comedy Evening",
+    "subtitle": "Stand-up sets from local and guest comedians",
+    "hint": "Show this code at the entrance during the event",
+    "description": "A night of laughs with rotating comedians. Relaxed seating, craft cocktails, and a warm atmosphere make it an easy go-to for an evening out.",
+    "location": "Lounge Bar – Level 1",
+    "when": "Every Friday, 9:00 PM",
+    "durationMinutes": 90,
+    "entryPrice": "For hotel guests",
+    "extras": [
+      "Table service available during the show",
+      "Arrive 10 minutes early for best seats"
+    ],
+    "tag": "Hotel guests",
+    "image": "assets/images/entertainment/comedy.png",
+    "eventDate": "2025-12-05T21:00:00.000Z"
+  },
+  {
+    "id": "spa_relax",
+    "category": "pool_spa",
+    "title": "Aqua Relax Session",
+    "subtitle": "Guided hydrotherapy with aroma infusions",
+    "hint": "Show this code at the entrance during the event",
+    "description": "Unwind with a curated hydrotherapy circuit, aroma infusions, and calming music. Ideal for recovery or a reset day.",
+    "location": "Pool & Spa – Level B1",
+    "when": "Daily at 6:00 PM",
+    "durationMinutes": 60,
+    "entryPrice": "Entry included for spa pass",
+    "extras": [
+      "Bathrobe and slippers included",
+      "Herbal tea served post-session"
+    ],
+    "tag": "Spa pass",
+    "image": "assets/images/entertainment/pool.png",
+    "eventDate": "2025-12-01T18:00:00.000Z"
+  },
+  {
+    "id": "massage_ritual",
+    "category": "pool_spa",
+    "title": "Signature Massage Ritual",
+    "subtitle": "Deep relaxation with warm oils and calming music",
+    "hint": "Show this code at the spa reception",
+    "description": "A 50-minute full-body massage with warm oils, gentle stretching, and aromatherapy to melt away tension.",
+    "location": "Spa Suites – Level B1",
+    "when": "Daily from 10:00 AM to 8:00 PM",
+    "durationMinutes": 50,
+    "entryPrice": "ˆ85 per guest",
+    "extras": [
+      "Herbal tea and fruit offered post-treatment",
+      "Arrive 10 minutes early to unwind"
+    ],
+    "tag": "Relax & unwind",
+    "image": "assets/images/entertainment/massage.png",
+    "eventDate": "2025-12-03T10:00:00.000Z"
+  },
+  {
+    "id": "morning_flow",
+    "category": "fitness_gym",
+    "title": "Morning Yoga Flow",
+    "subtitle": "Vinyasa-inspired session to start your day",
+    "hint": "Show this code at the studio entrance",
+    "description": "Gentle vinyasa flow focused on mobility, breath, and light strength. Suitable for all levels.",
+    "location": "Fitness Studio – Level 2",
+    "when": "Daily at 7:00 AM",
+    "durationMinutes": 50,
+    "entryPrice": "Included in fitness access",
+    "extras": [
+      "Mats and blocks provided",
+      "Arrive 5 minutes early for setup"
+    ],
+    "tag": "Included",
+    "image": "assets/images/entertainment/yoga.png",
+    "eventDate": "2025-12-01T07:00:00.000Z"
+  },
+  {
+    "id": "strength_circuit",
+    "category": "fitness_gym",
+    "title": "Strength Circuit",
+    "subtitle": "Coach-led small group training",
+    "hint": "Show this code at the gym reception",
+    "description": "A fast-paced circuit combining free weights, cardio intervals, and mobility work. Limited spots for personal attention.",
+    "location": "Gym Floor – Level 2",
+    "when": "Mon/Wed/Fri at 6:00 PM",
+    "durationMinutes": 45,
+    "entryPrice": "Included in fitness access",
+    "extras": [
+      "Towels and water provided",
+      "Wear training shoes"
+    ],
+    "tag": "Included",
+    "image": "assets/images/entertainment/gym.png",
+    "eventDate": "2025-12-03T18:00:00.000Z"
+  },
+  {
+    "id": "vineyard_walk",
+    "category": "outdoor_adventures",
+    "title": "Coastal Vineyard Walk",
+    "subtitle": "Scenic trail with guided tasting",
+    "hint": "Show this code at the tour desk",
+    "description": "A relaxed coastal walk through nearby vineyards with a hosted tasting at sunset.",
+    "location": "Tour Desk – Lobby",
+    "when": "Sat & Sun at 4:00 PM",
+    "durationMinutes": 120,
+    "entryPrice": "ˆ35 per guest",
+    "extras": [
+      "Light snacks included",
+      "Comfortable shoes recommended"
+    ],
+    "tag": "Scenic",
+    "image": "assets/images/entertainment/walk.png",
+    "eventDate": "2025-12-06T16:00:00.000Z"
+  },
+  {
+    "id": "bike_explore",
+    "category": "outdoor_adventures",
+    "title": "Bike & Explore Package",
+    "subtitle": "Guided ride with coastal viewpoints",
+    "hint": "Show this code when collecting your bike",
+    "description": "Guided bike tour covering city highlights and coastal viewpoints. Pace adjusted to the group.",
+    "location": "Bike Station – Outside Lobby",
+    "when": "Daily at 10:00 AM",
+    "durationMinutes": 120,
+    "entryPrice": "ˆ25 per guest",
+    "extras": [
+      "Helmet and bike included",
+      "Water provided"
+    ],
+    "tag": "Adventure",
+    "image": "assets/images/entertainment/bike.png",
+    "eventDate": "2025-12-02T10:00:00.000Z"
+  },
+  {
+    "id": "cooking_class",
+    "category": "workshops_classes",
+    "title": "Mediterranean Cooking Class",
+    "subtitle": "Hands-on session with our chef",
+    "hint": "Show this code at the kitchen studio",
+    "description": "Learn to craft Mediterranean favorites with our chef. Includes tasting and recipe cards.",
+    "location": "Show Kitchen – Level 1",
+    "when": "Wed & Sat at 3:00 PM",
+    "durationMinutes": 90,
+    "entryPrice": "ˆ30 per guest",
+    "extras": [
+      "All ingredients included",
+      "Apron provided"
+    ],
+    "tag": "Hands-on",
+    "image": "assets/images/entertainment/cooking.png",
+    "eventDate": "2025-12-03T15:00:00.000Z"
+  },
+  {
+    "id": "wine_tasting",
+    "category": "workshops_classes",
+    "title": "Wine Tasting Workshop",
+    "subtitle": "Discover local vintages with a sommelier",
+    "hint": "Show this code at the tasting room",
+    "description": "Taste and learn about regional wines with our sommelier. Paired with cheeses and chocolates.",
+    "location": "Tasting Room – Level 1",
+    "when": "Fridays at 6:00 PM",
+    "durationMinutes": 75,
+    "entryPrice": "ˆ28 per guest",
+    "extras": [
+      "Cheese pairing included",
+      "Limited seats — arrive 10 minutes early"
+    ],
+    "tag": "For hotel guests",
+    "image": "assets/images/entertainment/wine.png",
+    "eventDate": "2025-12-05T18:00:00.000Z"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "id": "skyline_rooftop",
+    "name": "Skyline Rooftop",
+    "subtitle": "Mediterranean-inspired dishes with open-air views and live piano in the evening",
+    "openHours": "Open until 11:30 PM",
+    "hint": "Scan this code at the entrance for quicker check-in",
+    "tags": ["Terrace", "Scenic view"],
+    "description": "Experience an evening above the city lights at our signature rooftop venue. Large windows and an open terrace create a relaxed yet elegant setting for slow dinners, celebrations or a quiet drink with a view.",
+    "atmosphere": "Romantic • Scenic • Live music in the evening",
+    "cuisine": "Mediterranean-inspired: fresh seafood, grilled meats, seasonal vegetables, small plates to share and classic desserts.",
+    "specialFeatures": [
+      "1. Live piano performance from 7:00 PM on selected days",
+      "2. Outdoor terrace seating (weather permitting)",
+      "3. Vegan and gluten-free options available",
+      "4. Ideal for anniversaries and special occasions"
+    ],
+    "menuPreview": [
+      "1. Grilled Sea Bass with lemon and herbs",
+      "2. Charcoal-grilled Lamb Shoulder with rosemary",
+      "3. Charred Vegetable Platter with dips",
+      "4. Warm Chocolate Fondant with vanilla ice cream"
+    ],
+    "image": "assets/images/dining/skyline.png"
+  },
+  {
+    "id": "sakura_sushi",
+    "name": "Sakura Sushi Lounge",
+    "subtitle": "Modern Japanese dining with fresh sushi, sashimi and crafted cocktails",
+    "openHours": "Open until 10:00 PM",
+    "hint": "Scan this code at the entrance for quicker check-in",
+    "tags": ["Sushi", "Lounge"],
+    "description": "Chefs roll signature maki, premium sashimi and small plates in a warm lounge setting. Pair with house-infused cocktails or sake flights.",
+    "atmosphere": "Cozy • Lounge • Contemporary",
+    "cuisine": "Japanese-inspired small plates, premium sashimi, specialty rolls and yakitori.",
+    "specialFeatures": [
+      "1. Omakase tasting menu on weekends",
+      "2. Sake pairing recommendations",
+      "3. Private booth seating on request"
+    ],
+    "menuPreview": [
+      "1. Toro & Salmon Sashimi",
+      "2. Crispy Shrimp Tempura Roll",
+      "3. Yakitori Platter",
+      "4. Matcha Cheesecake"
+    ],
+    "image": "assets/images/dining/sakura.png"
+  },
+  {
+    "id": "terra_garden",
+    "name": "Terra Garden Trattoria",
+    "subtitle": "Wood-fired pizza, homemade pasta and a relaxed garden-style setting",
+    "openHours": "Open until 9:30 PM",
+    "hint": "Scan this code at the entrance for quicker check-in",
+    "tags": ["Italian", "Garden"],
+    "description": "A cozy trattoria with wood-fired ovens and homemade pasta. Indoor garden vibes with soft lighting and friendly service.",
+    "atmosphere": "Casual • Family-friendly • Garden",
+    "cuisine": "Italian classics: antipasti, wood-fired pizzas, fresh pasta, house-made desserts.",
+    "specialFeatures": [
+      "1. Wood-fired oven on display",
+      "2. Kids menu available",
+      "3. House-made gelato daily"
+    ],
+    "menuPreview": [
+      "1. Margherita DOP Pizza",
+      "2. Truffle Tagliatelle",
+      "2. Burrata with Roasted Tomatoes",
+      "3. Tiramisu"
+    ],
+    "image": "assets/images/dining/terra.png"
+  },
+  {
+    "id": "vital_green",
+    "name": "Vital Green Cafe",
+    "subtitle": "Light meals, plant-based options and fresh juices for a balanced day",
+    "openHours": "Open until 8:00 PM",
+    "hint": "Scan this code at the entrance for quicker check-in",
+    "tags": ["Healthy", "Cafe"],
+    "description": "Bright cafe with salads, bowls, smoothies and light mains. Perfect for a quick, healthy bite any time of day.",
+    "atmosphere": "Bright • Casual • Health-focused",
+    "cuisine": "Plant-forward plates, smoothies, cold-pressed juices, light mains.",
+    "specialFeatures": [
+      "1. Gluten-free and vegan options",
+      "2. Freshly pressed juices",
+      "3. Grab-and-go counter"
+    ],
+    "menuPreview": [
+      "1.Quinoa & Avocado Bowl",
+      "2. Grilled Chicken Salad",
+      "3. Cold-pressed Green Juice",
+      "4. Berry Chia Pudding"
+    ],
+    "image": "assets/images/dining/vital.png"
+  },
+  {
+    "id": "grill_flame",
+    "name": "Grill & Flame Steakhouse",
+    "subtitle": "Charcoal-grilled meats, seafood from the grill and a curated wine list",
+    "openHours": "Open until 10:30 PM",
+    "hint": "Scan this code at the entrance for quicker check-in",
+    "tags": ["Steakhouse"],
+    "description": "Signature steaks, charcoal-grilled seafood and a robust wine selection. Rustic chic interiors with attentive service.",
+    "atmosphere": "Rustic • Premium • Wine-focused",
+    "cuisine": "Steaks, grilled seafood, hearty sides and sauces.",
+    "specialFeatures": [
+      "1. Dry-aged cuts available",
+      "2Sommelier wine recommendations",
+      "3Chef's carving at table on request"
+    ],
+    "menuPreview": [
+      "1. Ribeye Steak (dry-aged)",
+      "2. Grilled King Prawns",
+      "3. Creamed Spinach",
+      "4. Chocolate Lava Cake"
+    ],
+    "image": "assets/images/dining/grill.png"
+  },
+  {
+    "id": "lobby_bar",
+    "name": "Lobby Lounge Bar",
+    "subtitle": "All-day lounge with barista coffee, desserts and classic cocktails",
+    "openHours": "Open 24/7",
+    "hint": "Scan this code at the entrance for quicker check-in",
+    "tags": ["Bar", "Coffee"],
+    "description": "Relaxed lounge for casual meetups, sweet treats, and well-made classics from the barista bar and cocktail counter.",
+    "atmosphere": "Casual • Social • All-day",
+    "cuisine": "Light bites, desserts, specialty coffee, classic cocktails.",
+    "specialFeatures": [
+      "1. All-day dining menu",
+      "2. Dessert counter",
+      "3. Live piano on weekends"
+    ],
+    "menuPreview": [
+      "1. Club Sandwich",
+      "2. Signature Cappuccino",
+      "3. Classic Tiramisu",
+      "4. Old Fashioned"
+    ],
+    "image": "assets/images/dining/lobby.png"
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "id": "spa_escape",
+    "title": "Spa Escape Weekend",
+    "subtitle": "Escape to tranquility with our Spa Escape Weekend. Enjoy two luxurious nights in one of our suites, complete with spa access and a 60-minute spa treatment for two. Perfect for a relaxing getaway with your loved one.",
+    "hint": "Show this code at the reception during check-in",
+    "validUntil": "30 September",
+    "validUntilDate": "2025-12-30",
+    "validWeekdays": [],
+    "tag": "Included with your suite booking",
+    "image": "assets/images/offers/spa.png",
+    "priceLabel": "Included with your suite booking",
+    "description": "Escape to tranquility with our **Spa Escape Weekend**. Enjoy two luxurious nights in one of our suites, complete with spa access and a 60-minute spa treatment for two. Perfect for a relaxing getaway with your loved one.",
+    "terms": [
+      "Offer valid for stays until 30 December.",
+      "Subject to availability.",
+      "60-minute spa treatment included per guest.",
+      "Additional spa treatments available at an extra charge."
+    ]
+  },
+  {
+    "id": "late_checkout",
+    "title": "Late Check-out Treat",
+    "subtitle": "Enjoy the luxury of extended relaxation with our Late Check-out Treat. On selected days, enjoy complimentary late check-out until 3:00 PM, giving you extra time to relax before you head home.",
+    "hint": "Show this code at the reception during check-in",
+    "validUntil": "Every Sunday (subject to availability)",
+    "validUntilDate": "2025-12-30",
+    "validWeekdays": ["sunday"],
+    "tag": "Free",
+    "image": "assets/images/offers/late.png",
+    "priceLabel": "Free",
+    "description": "Enjoy the luxury of **extended relaxation** with our **Late Check-out Treat**. On selected days, enjoy complimentary late check-out until 3:00 PM, giving you extra time to relax before you head home.",
+    "terms": [
+      "Late check-out is available on Sundays only.",
+      "Subject to availability, must be requested at check-in.",
+      "Only available for stays booked directly through the hotel."
+    ]
+  },
+  {
+    "id": "welcome_drink",
+    "title": "Welcome Drink Invite",
+    "subtitle": "Start your stay with a refreshing Welcome Drink at our lobby bar. Each guest will be treated to a drink of your choice to enjoy as you relax and begin your stay.",
+    "hint": "Show this code at the reception during check-in",
+    "validUntil": "For stays of 2 nights or more",
+    "validUntilDate": "2025-12-31",
+    "validWeekdays": [],
+    "tag": "Included with your suite booking",
+    "image": "assets/images/offers/drink.png",
+    "priceLabel": "Included with your suite booking",
+    "description": "Start your stay with a refreshing **Welcome Drink** at our lobby bar. Upon arrival, each guest will be treated to a drink of your choice to enjoy as you relax and begin your stay.",
+    "terms": [
+      "Offer valid only for stays of 2 nights or more.",
+      "Drink selection available upon arrival.",
+      "Must be redeemed on the arrival day."
+    ]
+  },
+  {
+    "id": "date_night",
+    "title": "Date Night Dinner",
+    "subtitle": "Make your evening unforgettable with a romantic Date Night Dinner. Enjoy a three-course meal for two, accompanied by a glass of wine each, while taking in beautiful views from our rooftop restaurant.",
+    "hint": "Show this code at the reception during check-in",
+    "validUntil": "Friday to Sunday",
+    "validUntilDate": "2025-12-31",
+    "validWeekdays": ["friday", "saturday", "sunday"],
+    "tag": "EUR 75 per couple",
+    "image": "assets/images/offers/date.png",
+    "priceLabel": "EUR 75 per couple",
+    "description": "Make your evening unforgettable with a **romantic Date Night Dinner**. Enjoy a three-course meal for two, accompanied by a glass of wine each, while taking in the beautiful views from our rooftop restaurant.",
+    "terms": [
+      "Valid only on Friday to Sunday evenings.",
+      "Reservations required 24 hours in advance.",
+      "Menu selection available upon booking."
+    ]
+  },
+  {
+    "id": "family_upgrade",
+    "title": "Family Stay Upgrade",
+    "subtitle": "Enjoy a family-friendly stay with our Family Stay Upgrade. This offer includes a special rate for family rooms, with breakfast for two adults and up to two children included in your stay.",
+    "hint": "Show this code at the reception during check-in",
+    "validUntil": "Selected school holiday periods",
+    "validUntilDate": "2025-12-31",
+    "validWeekdays": [],
+    "tag": "EUR 180 per night",
+    "image": "assets/images/offers/family.png",
+    "priceLabel": "EUR 180 per night",
+    "description": "Enjoy a family-friendly stay with our **Family Stay Upgrade**. This offer includes a special rate for family rooms, with breakfast for two adults and up to two children included in your stay.",
+    "terms": [
+      "Available for selected school holiday periods only.",
+      "Family room must be booked for at least 2 adults and 1 child.",
+      "Additional children can be added for an extra charge."
+    ]
+  },
+  {
+    "id": "bike_explore",
+    "title": "Bike & Explore Package",
+    "subtitle": "Explore the city like a local with our Bike & Explore Package. Book 3 or more nights and enjoy a full day of bicycle use to explore the area at your own pace.",
+    "hint": "Show this code at the reception during check-in",
+    "validUntil": "All year, on advanced bookings",
+    "validUntilDate": "2025-12-31",
+    "validWeekdays": [],
+    "tag": "EUR 10 per bike for 1 day",
+    "image": "assets/images/entertainment/bike.png",
+    "priceLabel": "EUR 10 per bike for 1 day",
+    "description": "Explore the city like a local with our **Bike & Explore Package**. Book 3 or more nights and enjoy a full day of bicycle use to explore the area at your own pace.",
+    "terms": [
+      "Valid for bookings of 3 or more nights.",
+      "Bicycle rental must be reserved in advance.",
+      "Available throughout the year."
+    ]
+  },
+  {
+    "id": "birthday_surprise",
+    "title": "Birthday Surprise",
+    "subtitle": "Celebrate in style with a Birthday Surprise. Enjoy a complimentary dessert and a small gift during dinner on your birthday or stay dates around it.",
+    "hint": "Show this code at the reception during check-in",
+    "validUntil": "On your birthday or stay dates around it (ID required)",
+    "validUntilDate": "2025-12-31",
+    "validWeekdays": [],
+    "tag": "Included with your dinner",
+    "image": "assets/images/offers/birthday.png",
+    "priceLabel": "Included with your dinner",
+    "description": "Celebrate in style with a **Birthday Surprise**. Enjoy a complimentary dessert and a small gift during dinner on your birthday or stay dates around it.",
+    "terms": [
+      "Valid for birthday stays or dates within a week before or after your birthday.",
+      "ID required for verification.",
+      "Dessert and gift available during dinner only."
+    ]
+  },
+  {
+    "id": "business_advantage",
+    "title": "Business Stay Advantage",
+    "subtitle": "Take advantage of our Business Stay Advantage offer with a preferential rate for business travelers. Enjoy early check-in, a daily pressed shirt, and a discount on meeting room bookings.",
+    "hint": "Show this code at the reception during check-in",
+    "validUntil": "Monday to Thursday",
+    "validUntilDate": "2025-12-31",
+    "validWeekdays": ["monday", "tuesday", "wednesday", "thursday"],
+    "tag": "EUR 150 per night",
+    "image": "assets/images/offers/business.png",
+    "priceLabel": "EUR 150 per night",
+    "description": "Take advantage of our **Business Stay Advantage** offer with a preferential rate for business travelers. Enjoy early check-in, a daily pressed shirt, and a discount on meeting room bookings.",
+    "terms": [
+      "Valid for stays Monday to Thursday.",
+      "Early check-in available upon request.",
+      "One shirt pressed per day included.",
+      "Meeting room discount based on availability."
+    ]
+  }
+]

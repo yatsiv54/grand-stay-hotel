@@ -1,0 +1,54 @@
+{
+  "highlights": [
+    {
+      "id": "spa_escape",
+      "title": "Spa Escape Weekend",
+      "subtitle": "Two nights in a suite with spa access and a 60-minute treatment included for two guests",
+      "ctaLabel": "View",
+      "gradient": [4279335712, 4294042025]
+    },
+    {
+      "id": "late_checkout",
+      "title": "Late Checkout",
+      "subtitle": "Extend your stay until 2PM with complimentary breakfast",
+      "ctaLabel": "Details",
+      "gradient": [4279801456, 4293384963]
+    }
+  ],
+  "quickActions": [
+    {
+      "id": "rooms",
+      "title": "Rooms & Suites",
+      "icon": "rooms",
+      "primary": "#D72F32",
+      "secondary": "#B30F14"
+    },
+    {
+      "id": "entertainment",
+      "title": "Entertainment",
+      "icon": "entertainment",
+      "primary": "#D72F32",
+      "secondary": "#B30F14"
+    },
+    {
+      "id": "dining",
+      "title": "Dining",
+      "icon": "dining",
+      "primary": "#D72F32",
+      "secondary": "#B30F14"
+    },
+    {
+      "id": "offers",
+      "title": "Special Offers",
+      "icon": "offers",
+      "primary": "#D72F32",
+      "secondary": "#B30F14"
+    }
+  ],
+  "todayBooking": {
+    "id": "dinner_19_30",
+    "title": "Dinner at 19:30",
+    "timeLabel": "Next booking",
+    "status": "upcoming"
+  }
+}
